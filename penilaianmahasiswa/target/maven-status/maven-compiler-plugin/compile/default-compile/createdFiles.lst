@@ -1,0 +1,5 @@
+com\blqproject\penilaianmahasiswa\repository\MahasiswaRepo.class
+com\blqproject\penilaianmahasiswa\PenilaianmahasiswaApplication.class
+com\blqproject\penilaianmahasiswa\service\MahasiswaService.class
+com\blqproject\penilaianmahasiswa\entity\Mahasiswa.class
+com\blqproject\penilaianmahasiswa\controller\MahasiswaController.class
